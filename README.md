@@ -10,7 +10,7 @@ Ce projet explore les facteurs qui influencent l'abandon (DNF) et la performance
 * **Le Coût de l'Ascension :** Chaque 100m de dénivelé positif ajoute environ 5,4 minutes au temps du vainqueur.
 
 ## 📈 Visualisations
-![Analyse des abandons](img/abandono.png) 
+![Analyse des abandons](img/abandonos.png) 
 
 ## 🛠️ Stack Technique
 Python (Pandas, Scikit-Learn, Seaborn, Folium).
